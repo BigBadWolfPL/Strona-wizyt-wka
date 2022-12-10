@@ -1,0 +1,43 @@
+
+
+.body {
+background-color: rgb(30, 30, 30);
+}
+
+.zawodnicy {
+    background-color: rgb(241, 246, 242);
+    text-align: center;
+    margin-left: auto;
+    margin-left: auto;
+}
+
+.zawodnicy div {
+    margin-top: 15px;
+}
+
+.zawodnicy img {
+    width: 100%;
+    height: auto;
+}
+
+.nav {
+    height: 80px;
+    background-color:lightyellow;
+    padding: 10px;
+}
+
+.lewemenu {
+    background-color: rgb(10, 65, 15);
+    height: auto;
+}
+
+
+.downbar {
+    background-color: rgb(136, 94, 79);
+    width: 100%;
+    height: auto;
+}
+
+.downbar div {
+    border: dashed;
+}
